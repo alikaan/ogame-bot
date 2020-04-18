@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotConsole", "BotConsole\BotConsole.csproj", "{F7D9B627-0F5E-458E-AEA0-18DD9609FF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotDll", "BotDll\BotDll.csproj", "{879680DD-B203-4774-861A-CCD59F750DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotForm", "BotForm\BotForm.csproj", "{4AC3F767-A9FF-4B7D-9A07-58AC44C435BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D9B627-0F5E-458E-AEA0-18DD9609FF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D9B627-0F5E-458E-AEA0-18DD9609FF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D9B627-0F5E-458E-AEA0-18DD9609FF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D9B627-0F5E-458E-AEA0-18DD9609FF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879680DD-B203-4774-861A-CCD59F750DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879680DD-B203-4774-861A-CCD59F750DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879680DD-B203-4774-861A-CCD59F750DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879680DD-B203-4774-861A-CCD59F750DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC3F767-A9FF-4B7D-9A07-58AC44C435BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC3F767-A9FF-4B7D-9A07-58AC44C435BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC3F767-A9FF-4B7D-9A07-58AC44C435BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC3F767-A9FF-4B7D-9A07-58AC44C435BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A78CB1D1-9FF4-441C-8D37-59978D4040DD}
+	EndGlobalSection
+EndGlobal
